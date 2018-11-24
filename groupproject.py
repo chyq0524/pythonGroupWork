@@ -14,4 +14,3 @@ print("chen")
 
 print("yiqing")
 
-print("tya")
